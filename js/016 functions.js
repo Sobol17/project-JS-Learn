@@ -33,4 +33,4 @@ const logger = function() {     // функциональное выражени
 
 logger();
 
-const calc = (a,b) => a + b;  //стрелочная функция
+const calc = (a,b) => a + b;  //стрелочная функцияA
